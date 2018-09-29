@@ -1,0 +1,19 @@
+[
+  "test_config_item.py::TestTools::test_id2rid",
+  "test_config_item.py::TestTools::test_rid2id",
+  "test_config_item.py::TestTools::test_tableName2Type",
+  "test_config_item.py::TestTools::test_valid_bracket_statement",
+  "test_config_item.py::TestTools::test_valid_key",
+  "test_config_item.py::TestTools::test_valid_list",
+  "test_config_item.py::TestTools::test_valid_logic_op",
+  "test_config_item.py::TestTools::test_valid_not",
+  "test_config_item.py::TestTools::test_valid_not_statement",
+  "test_config_item.py::TestTools::test_valid_number",
+  "test_config_item.py::TestTools::test_valid_op",
+  "test_config_item.py::TestTools::test_valid_single_statement",
+  "test_config_item.py::TestTools::test_valid_str",
+  "test_config_type_validation.py::TestValidationConfigType::test_validateConfigType",
+  "test_config_type_validation.py::TestValidationConfigType::test_validateID",
+  "test_config_type_validation.py::TestValidationConfigType::test_validateQueryPath",
+  "test_config_type_validation.py::TestValidationConfigType::test_version"
+]
